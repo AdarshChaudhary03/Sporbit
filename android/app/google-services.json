@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "1015906514416",
+    "firebase_url": "https://sporbit-playstore-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sporbit-playstore",
+    "storage_bucket": "sporbit-playstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015906514416:android:dae53e02edb405c2bd9935",
+        "android_client_info": {
+          "package_name": "com.sporbitcoachespanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015906514416-0jd3be8selaogqi76g8emvekmu2582dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sporbitcoachespanel",
+            "certificate_hash": "ca9cfe270bf42dcafbc619675f69e0772a863795"
+          }
+        },
+        {
+          "client_id": "1015906514416-7rfnra65b64o2tve3tingbpm2cp0bd11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sporbitcoachespanel",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1015906514416-92v28mjf6q2bpnb40reu2ukkp5m3hmv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD630skO-NPmKJXC7pCMu2GhVjU2PcDFvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015906514416-92v28mjf6q2bpnb40reu2ukkp5m3hmv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015906514416:android:bc4c993e90470f8abd9935",
+        "android_client_info": {
+          "package_name": "com.sporbitmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015906514416-6e4htmcrfi706c23sg08lblpuqsd4pne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sporbitmobile",
+            "certificate_hash": "66f6279a068fc703fa5da5d0bdcbe6c89e9edaf4"
+          }
+        },
+        {
+          "client_id": "1015906514416-huv6pcmmnu5vgitn6lelhj5ku3jekge4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sporbitmobile",
+            "certificate_hash": "76868ec9f89272ca2e19842dcbdc34d72a203b24"
+          }
+        },
+        {
+          "client_id": "1015906514416-inn34n9euph68e9disj4vqckqescs250.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sporbitmobile",
+            "certificate_hash": "73eee3dd21ff8682c1a21f2c5de611dbc839f6ed"
+          }
+        },
+        {
+          "client_id": "1015906514416-vhfdu5v8o2si3f35ua1k5r3k7ot5n7ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sporbitmobile",
+            "certificate_hash": "5fe1e6cfbd7c5cff63cad9afa8221bf9c97e8efe"
+          }
+        },
+        {
+          "client_id": "1015906514416-92v28mjf6q2bpnb40reu2ukkp5m3hmv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD630skO-NPmKJXC7pCMu2GhVjU2PcDFvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015906514416-92v28mjf6q2bpnb40reu2ukkp5m3hmv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

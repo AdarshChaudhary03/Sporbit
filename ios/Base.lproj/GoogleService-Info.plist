@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>344692318079-frmnf8rp6pupvjech88hor0hsaj4b33g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.344692318079-frmnf8rp6pupvjech88hor0hsaj4b33g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>344692318079-37bvsh26ae5khmtg9vfkoplieb4b6pe7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAKmkFiQ2JF4PsW_7s3vJC9QmY0KOg8hMU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>344692318079</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Sporbitmobile</string>
+	<key>PROJECT_ID</key>
+	<string>sporbit-playstore</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sporbit-playstore.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1015906514416:android:bc4c993e90470f8abd9935</string>
+</dict>
+</plist>
