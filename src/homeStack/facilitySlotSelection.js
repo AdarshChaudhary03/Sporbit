@@ -86,7 +86,7 @@ const FacilitySlotSelection = (props) => {
   }, [facility.id]);
 
   useEffect(() => {
-    const times = [8, 9, 10, 11];
+    const times = [10, 11, 12, 13, 14, 15, 20, 21, 22, 23];
     let tempDates = [];
     for (const time of times) {
       const dateTime = new Date(selectedDate);
@@ -235,7 +235,7 @@ const FacilitySlotSelection = (props) => {
         </View>
       </ScrollView>
       {selectedSlots.length ? (
-        <PaymentFooter amount={200 * selectedSlots.length} onPay={bookSlot} />
+        <PaymentFooter amount={300 * selectedSlots.length} onPay={bookSlot} />
       ) : null}
     </View>
   );

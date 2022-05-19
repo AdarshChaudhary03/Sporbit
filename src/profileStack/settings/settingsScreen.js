@@ -24,7 +24,7 @@ const SettingsScreen = () => {
         {/* eslint-disable-next-line react-native/no-inline-styles */}
         <View style={{flexDirection: 'row', margin: heightToDP('1%')}}>
           <TouchableOpacity
-            onPress={() => Linking.openURL('https://www.mylastpage.in/terms')}>
+            onPress={() => Linking.openURL('https://www.sporbit.in/terms')}>
             <Text
               // eslint-disable-next-line react-native/no-inline-styles
               style={{
@@ -48,7 +48,7 @@ const SettingsScreen = () => {
           </Text>
           <TouchableOpacity
             onPress={() =>
-              Linking.openURL('https://www.mylastpage.in/privacy')
+              Linking.openURL('https://www.sporbit.in/policy')
             }>
             <Text
               // eslint-disable-next-line react-native/no-inline-styles

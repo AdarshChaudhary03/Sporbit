@@ -43,6 +43,8 @@ const PlayerEditScreen = ({route, navigation}) => {
   const [selfMark, setSelfMark] = useState(false);
   const [showSelfMark, setShowSelfMark] = useState(true);
 
+  console.log('player.birthday',player.birthday);
+
   const onSubmitPressed = async () => {
     if (selfMark) {
       setActivity(true);
@@ -149,7 +151,10 @@ const PlayerEditScreen = ({route, navigation}) => {
                     timeZoneOffsetInMinutes={330}
                     mode={'date'}
                     date={playerBirthday}
-                    onDateChange={setPlayerBirthday}
+                    onDateChange={(date) => {
+                      console.log('new date: ', new Date(date));
+                      setPlayerBirthday(new Date(date))
+                    }}
                   />
                   <TouchableOpacity
                     style={styles.datePickerButton}

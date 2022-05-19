@@ -29,9 +29,9 @@ const ProfileScreen = () => {
     console.log('Null User');
     return null;
     }
-  if (!user.players.length) {
-    return <ProfileSkeleton />;
-  }
+//  if (!user.players.length) {
+//    return <ProfileSkeleton />;
+//  }
   return (
     <ScrollView
       refreshControl={
